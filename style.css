@@ -15,6 +15,9 @@
         --fonte-principal:"poppins";
         --font-secundaria:"josefin sans";
         --preto:#000000;
+        --cor-rodape:#858585;
+        --cor-rodape-icon:#474646;
+        --branco-rodape:#F9F9F9;
 
     }
     body {
