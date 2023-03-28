@@ -1,5 +1,3 @@
-# alurabook-feito-no-curso
-
-ALURABOOK 
+ALURABOOK
 
 PROJETO FEITO DURANTE O CURSO DO aLURAbOOK
